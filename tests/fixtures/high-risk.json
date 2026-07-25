@@ -1,0 +1,30 @@
+{
+  "task": {
+    "digital": 4,
+    "repetition": 4,
+    "rules": 4,
+    "ai_can_do": 4,
+    "human_judgment": 0,
+    "relationship": 0,
+    "physical_presence": 0,
+    "accountability": 0
+  },
+  "company": {
+    "ai_mandate": 2,
+    "hiring_freeze": 2,
+    "no_backfill": 2,
+    "role_merge": 2,
+    "output_quota": 2,
+    "outsourcing": 2,
+    "pay_change": 2,
+    "pip_pressure": 2
+  },
+  "buffer": {
+    "business_outcomes": 0,
+    "customer_trust": 0,
+    "complex_judgment": 0,
+    "cross_team_delivery": 0,
+    "ai_collaboration": 0,
+    "transferable_proof": 0
+  }
+}
