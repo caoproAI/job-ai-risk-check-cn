@@ -1,0 +1,8 @@
+interface:
+  display_name: "这破班还能上多久？"
+  short_description: "检查工作被AI替代、降薪和裁员信号，给出30天改变计划"
+  brand_color: "#F59A3D"
+  default_prompt: "使用 $job-ai-risk-check-cn 检查我的工作会先被AI改变哪部分、公司有哪些危险信号，以及我现在该怎么准备。"
+
+policy:
+  allow_implicit_invocation: true
